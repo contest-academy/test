@@ -1,0 +1,251 @@
+[
+  {
+    "id": 0,
+    "countries": {
+      "it": {
+        "title": "Sfida Robottoni anni '80",
+        "description": "La sfida è uno scontro ad eliminazione diretta. Vota il tuo Robottone preferito e confronta il tuo risultato con la classifica generale!",
+        "messages": {
+          "startContest": "La sfida stà per iniziare, chi sarà il vincitore? A te il verdetto.",
+          "firstTurnStart": "Primo turno",
+          "quarterFinal": "Quarti di finale",
+          "semiFinal": "Semifinali",
+          "final": "Finale",
+          "turnEnd": "Passano al prossimo turno:",
+          "endContest": "La sfida è terminata. Guarda la tua classifica!"
+        }
+      },
+      "en": {
+        "title": "Bracket contest '80 robot",
+        "description": "This is a knockout tournment. Vote your preferred Mecha and compare the result with the top chart!",
+        "messages": {
+          "startContest": "The contest is reday to begin. Which Mecha will win? It's your choice!.",
+          "firstTurnStart": "First turn",
+          "quarterFinal": "Quarterfinals",
+          "semiFinal": "Semifinals",
+          "final": "Final",
+          "turnEnd": "They deserved the next turn:",
+          "endContest": "The contest is over. Take a look at your chart!"
+        }
+      }
+    },
+    "contenders": "34",
+    "owner": "contest.academy",
+    "type": "closed",
+    "status": "featured",
+    "links": {
+      "images": [
+        "http://artegrafica.persinsala.it/wp-content/uploads/2013/12/Robottoni-Giapponesi-Goldrake-Mazinga-e-Mazinga-Z.jpg"
+      ]
+    },
+    "meta": {
+
+    }
+  },
+  {
+    "id": 1,
+    "countries": {
+      "it": {
+        "title": "it 2"
+      },
+      "en": {
+        "title": "en 2"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "countries": {
+      "it": {
+        "title": "it 3"
+      },
+      "en": {
+        "title": "en 3"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "countries": {
+      "it": {
+        "title": "it 4"
+      },
+      "en": {
+        "title": "en 4"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "countries": {
+      "it": {
+        "title": "it 5"
+      },
+      "en": {
+        "title": "en 5"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "countries": {
+      "it": {
+        "title": "it 6"
+      },
+      "en": {
+        "title": "en 6"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 7"
+      },
+      "en": {
+        "title": "en 7"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 8"
+      },
+      "en": {
+        "title": "en 8"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 9"
+      },
+      "en": {
+        "title": "en 9"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 10"
+      },
+      "en": {
+        "title": "en 10"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 11"
+      },
+      "en": {
+        "title": "en 11"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 12"
+      },
+      "en": {
+        "title": "en 12"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 13"
+      },
+      "en": {
+        "title": "en 13"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 14"
+      },
+      "en": {
+        "title": "en 14"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 15"
+      },
+      "en": {
+        "title": "en 15"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 16"
+      },
+      "en": {
+        "title": "en 16"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 17"
+      },
+      "en": {
+        "title": "en 17"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 18"
+      },
+      "en": {
+        "title": "en 18"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 19"
+      },
+      "en": {
+        "title": "en 19"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 20"
+      },
+      "en": {
+        "title": "en 20"
+      }
+    }
+  },
+  {
+    "countries": {
+      "it": {
+        "title": "it 1"
+      },
+      "en": {
+        "title": "en 1"
+      }
+    }
+  }
+]
+

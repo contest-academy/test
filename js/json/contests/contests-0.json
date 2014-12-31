@@ -1,0 +1,3662 @@
+[
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Asutoroganga",
+                "kanji_title": "????????",
+                "original_serie": {
+                    "networks": [
+						"Nippon Television"
+                    ],
+                    "first_run": {
+                        "start": "1972/10/04",
+                        "end": "1973/03/28"
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Astroganga"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Astroganga",
+                "original_serie": {
+                    "networks": [
+                        "Telemontecarlo",
+						"Italia 7"
+                    ],
+                    "first_run": {
+                        "start": "1980/03/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/astroganga.htm",
+							"https://it.wikipedia.org/wiki/Astroganga"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Astroganger",
+                "original_serie": {
+                    "links": {
+                        "sources": [
+                            "https://en.wikipedia.org/wiki/Astroganger"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Tetsuhisa Suzukawa"
+        ],
+        "directors": [
+            "Masashi Nitta", "Kentaro Yoshida"
+        ],
+        "producers": [
+            "Knack  Productions"
+        ],
+        "writers": [
+			"Tatsuo Tamura",
+			"Toyohiro Ando",
+			"Tsuyoshi Amemiya"
+        ],
+        "character_design": [
+            "Eiji Tanaka"
+        ],
+        "music_by": [
+			"Akihiro Komori"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Astroganga",
+                "artist": "Galaxy Group"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/astroganga.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/5/57/Astroganga.jpg/280px-Astroganga.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Burokk-a Gundan IV Mashin Burasuta",
+                "kanji_title": "???????IV?????????",
+                "original_serie": {
+                    "networks": [
+						"Fuji Television"
+                    ],
+                    "first_run": {
+                        "start": "1976/07/5",
+                        "end": "1977/03/28"
+                    },
+                    "episodes": {
+                        "number": "38",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Astrorobot_contatto_Ypsilon"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Astro Robot Contatto  Ypsylon",
+                "original_serie": {
+                    "networks": [
+                        "Rai Due",
+						"Euro TV",
+						"Supersix",
+						"Cooltoon"
+                    ],
+                    "first_run": {
+                        "start": "1980/09/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "38",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/astrorobot.htm",
+							"https://it.wikipedia.org/wiki/Astrorobot_contatto_Ypsilon"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Blocker  Gundan IV Machine Blaster",
+                "original_serie": {
+                    "episodes": {
+                        "number": "38",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/astrorobot.htm"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Akira Hatta"
+        ],
+        "directors": [
+			"Masami Anno",
+			"Koushi Anou",
+			"Asahi Yahiro"
+        ],
+        "producers": [
+            "Nippon  Animation"
+        ],
+        "writers": [
+            "Yu Yamamoto",
+			"Hikaru Arai",
+			"Akira Hatta"
+        ],
+        "character_design": [
+			"Motosuke Takahashi",
+			"Yuu Sakata",
+			"Matsuda Takashi",
+			"Yonosuke Shichinoe"
+        ],
+        "music_by": [
+			"Hiroshi Tsutsui"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Astro Robot Contatto Ypsylon",
+                "artist": "Ypsylon"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/astrorobot.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Astrorobot_contatto_Y.jpg/225px-Astrorobot_contatto_Y.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Chojin Sentai Baratakku",
+                "kanji_title": "?????????",
+                "original_serie": {
+                    "networks": [
+						"TV Asahi"
+                    ],
+                    "first_run": {
+                        "start": "1977/07/03",
+                        "end": "1978/03/26"
+                    },
+                    "episodes": {
+                        "number": "31",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Balatack"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Balatak",
+                "original_serie": {
+                    "networks": [
+                        "reti locali"
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "31",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/balatak.htm",
+							"https://it.wikipedia.org/wiki/Balatack"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Chojin sentai Balatack",
+                "original_serie": {
+                    "episodes": {
+                        "number": "31",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/balatak.htm"
+                        ]
+                    }
+                }
+            }
+        },
+        "directors": [
+			"Nobutaka Nishizawa",
+			"Kazumi Fukushima",
+			"Masayuki Akehi",
+			"Kozo Morishita"
+        ],
+        "producers": [
+            "Toei Animation"
+        ],
+        "writers": [
+			"Hiroyasu Yamamura",
+			"Keisuke Fujikawa",
+			"Toyojiro Ando"
+        ],
+        "character_design": [
+			"Kazuo Komatsubara",
+			"Tadanao Tsuji"
+        ],
+        "music_by": [
+			"Akihiro Komori"
+        ],
+        "genres": [
+           "shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "originale giapponese",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/balatak.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Uchu Senshi Barudiosu",
+                "kanji_title": "???? ??????",
+                "original_serie": {
+                    "networks": [
+						"Family Gekijo"
+                    ],
+                    "first_run": {
+                        "start": "1980/06/30",
+                        "end": "1981/01/25"
+                    },
+                    "episodes": {
+                        "number": "34",
+                        "minutes_length": "25"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Baldios_-_Il_guerriero_dello_spazio"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Baldios - Il guerriero dello spazio",
+                "original_serie": {
+                    "networks": [
+						"Telenord",
+						"Super 3",
+						"Italia Teen Television",
+						"La 7 Cartapiù",
+						"Man-Ga"
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "32",
+                        "minutes_length": "25"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/baldios.htm",
+							"https://it.wikipedia.org/wiki/Baldios_-_Il_guerriero_dello_spazio"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Space Warrior Baldios",
+                "original_serie": {
+                    "episodes": {
+                        "number": "34",
+                        "minutes_length": "25"
+                    },
+                    "links": {
+                        "sources": [
+                            "https://en.wikipedia.org/wiki/Space_Warrior_Baldios"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Akiyoshi Sakai"
+        ],
+        "directors": [
+            "Kazuyuki Hirokawa",
+			"Kazuya Miyazaki",
+			"Yuzo Yamada",
+			"Junji Nishimura"
+        ],
+        "producers": [
+            "Ashi Productions",
+			"Kokusai Eigasha"
+        ],
+        "writers": [
+			"Akiyoshi Sakai",
+			"Takeshi Sudo"
+        ],
+        "character_design": [
+			"Osamu Kamijo"
+        ],
+        "music_by": [
+			"Kentaro Haneda"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Baldios",
+                "artist": "Coro di Baldios"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/baldios.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Baldios.png/280px-Baldios.png"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Ginga senpu Buraiga",
+                "kanji_title": "?????????",
+                "original_serie": {
+                    "networks": [
+						"TV Tokyo"
+                    ],
+                    "first_run": {
+                        "start": "1981/10/06",
+                        "end": "1982/06/30"
+                    },
+                    "episodes": {
+                        "number": "39",
+                        "minutes_length": "25"
+                    },
+                    "links": {
+                        "sources": [
+							"https://it.wikipedia.org/wiki/Bryger"
+                        ]
+                    }
+                }
+            },
+            "it": {
+                "title": "Bryger",
+                "original_serie": {
+                    "networks": [
+                        "Italia 1",
+						"La 7 Cartapiù",
+						"Cooltoon"
+                    ],
+                    "first_run": {
+                        "start": "1984/07/02",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "39",
+                        "minutes_length": "25"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/bryger.htm",
+							"https://it.wikipedia.org/wiki/Bryger"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Galaxy Cyclone Braiger",
+                "original_serie": {
+                    "networks": [
+
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "39",
+                        "minutes_length": "25"
+                    },
+                    "links": {
+                        "sources": [
+                            "https://en.wikipedia.org/wiki/Galaxy_Cyclone_Braiger"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Yu Yamamoto",
+			"Monkey Punch"
+        ],
+        "directors": [
+            "Takao Yotsuji",
+			"Johei Matsuura",
+			"Kozo Takagaki",
+			"Shoichi Yusumura"
+        ],
+        "producers": [
+            "Toei  Animation Korea"
+        ],
+        "writers": [
+            "Yu Yamamoto",
+			"Ken'ichi Matsuzaki"
+        ],
+        "character_design": [
+            "Kazuo Komatsubara",
+			"Yuichi Iguchi"
+        ],
+        "music_by": [
+            "Masayuki Yamamoto"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Bryger",
+                "artist": "Franco Martin"
+            },
+            "end": {
+                "title": "ballata di  Bryger",
+                "artist": "Franco Martin"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/bryger.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Chodenji robo Konbatora Bui",
+                "kanji_title": "????? ??·????V",
+                "original_serie": {
+                    "networks": [
+						"TV Asahi"
+                    ],
+                    "first_run": {
+                        "start": "1976/04/17",
+                        "end": "1977/05/28"
+                    },
+                    "episodes": {
+                        "number": "54",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Combattler_V"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Combattler V",
+                "original_serie": {
+                    "networks": [
+                        ": reti  locali"
+                    ],
+                    "first_run": {
+                        "start": "1983/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "54",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/combattlerv.htm",
+							"https://it.wikipedia.org/wiki/Combattler_V"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Chodenji  robot Combattler V",
+                "original_serie": {
+                    "networks": [
+						"ABS-CBN",
+						"IBC 13",
+						"GMA Network"
+                    ],
+                    "episodes": {
+                        "number": "54",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "https://en.wikipedia.org/wiki/Ch%C5%8Ddenji_Robo_Combattler_V"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Saburo Yatsude"
+        ],
+        "directors": [
+			"Tadao Nagahama",
+			"Kazuo Terada",
+			"Minoru Onadani"
+        ],
+        "producers": [
+            "Sunrise",
+			"TV Asahi Broadcaster",
+			"Toei Animation"
+        ],
+        "writers": [
+			"Massaki Tsuji",
+			"Gobu Fuyumori",
+			"Shoishi Taguci",
+			"Keisuke Fujikawa",
+			"Yu Yamamoto",
+			"Sakurai Masaaki"
+        ],
+        "character_design": [
+			"Norio Shioyama",
+			"Nobuyoshi Sasakado",
+			"Yoshikazu Yasuhiko",
+			"Yuki Hijiri",
+			"Studio NUE"
+        ],
+        "music_by": [
+			"Hiroshi Tsutsui"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "originale giapponese.",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/combattlerv.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/b/b2/Combattler5.png/280px-Combattler5.png"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Uchu majin Daikengo",
+                "kanji_title": "??????????",
+                "original_serie": {
+                    "networks": [
+						"TV Asashi"
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "25"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Daikengo,_il_guardiano_dello_spazio"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Daikengo, il guardiano  dello spazio",
+                "original_serie": {
+                    "networks": [
+						"Telereporter",
+                        "Euro TV",
+						"Supersix",
+						"Tv7 Pathè",
+						"Sitcom UNO",
+						"Facile Tv"
+                    ],
+                    "first_run": {
+                        "start": "1981/06/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "25"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/daikengo.htm",
+							"https://it.wikipedia.org/wiki/Daikengo,_il_guardiano_dello_spazio"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Uchu majin  Daikengo",
+                "original_serie": {
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "25"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/daikengo.htm",
+							"https://it.wikipedia.org/wiki/Daikengo,_il_guardiano_dello_spazio"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Akiyoshi Sakai",
+			"Hisaiyuki Toriumi",
+			"Satoshi Suyama"
+        ],
+        "directors": [
+            "Akira Yahiro",
+			"Shigeyasu Sannai",
+			"Sunao Furukawa"
+        ],
+        "producers": [
+            "Tori  Productions",
+			"Toei Agency"
+        ],
+        "writers": [
+            "Akiyoshi Sakai",
+			"Mikio Fukushima",
+			"Hisaiyuki Toriumi"
+        ],
+        "character_design": [
+            "Motosuke Takahashi",
+			"Chuichi Iguchi",
+			"Kunio Okawara"
+        ],
+        "music_by": [
+			"Hiroshi Tsutsui",
+			"Asehi Kobayashi"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Daikengo",
+                "artist": "Simba (Lino Corsetti)"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/daikengo.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Muteki kojin Daitan 3",
+                "kanji_title": "?????????3",
+                "original_serie": {
+                    "networks": [
+						"TV Nagoya"
+                    ],
+                    "first_run": {
+                        "start": "1978/06/03",
+                        "end": "1979/03/31"
+                    },
+                    "episodes": {
+                        "number": "40",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Daitarn_3"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Daitarn 3",
+                "original_serie": {
+                    "networks": [
+                        "Rete A",
+						"Odeon TV", "La 7",
+						"Canal Jimmy",
+						"MTV",
+						"Cooltoon",
+						"Ka-Boom"
+                    ],
+                    "first_run": {
+                        "start": "1980/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "40",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/daikengo.htm",
+							"https://it.wikipedia.org/wiki/Daitarn_3"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Invincible Steel Man Daitarn 3",
+                "original_serie": {
+                    "episodes": {
+                        "number": "40",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+                            "https://en.wikipedia.org/wiki/Invincible_Steel_Man_Daitarn_3"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Yoshiyuki Tomino",
+			"Hajime Yadate"
+        ],
+        "directors": [
+            "Yoshiyuki Tomino",
+			"Minoru Onadani"
+        ],
+        "producers": [
+            "Nippon Sunrise"
+        ],
+        "writers": [
+            "Yoshiyuki Tomino",
+			"Minoru Onadani"
+        ],
+        "character_design": [
+            "Norio Shioyama",
+			"Ishikazu Okumi",
+			"Kunio Okawara"
+        ],
+        "music_by": [
+			"Takeo Watanabe",
+			"Yushi Matsuyama"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Daitarn 3",
+                "artist": "I Micronauti"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/daitarn3.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/e/e6/Daitarn3dynit-cover.jpg/207px-Daitarn3dynit-cover.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Mirai Robo Darutaniasu",
+                "kanji_title": "?? ?? ??????",
+                "original_serie": {
+                    "networks": [
+						"TV Tokyo"
+                    ],
+                    "first_run": {
+                        "start": "1979/03/21",
+                        "end": "1980/03/05"
+                    },
+                    "episodes": {
+                        "number": "47",
+                        "minutes_length": "20"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Daltanious"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Daltanious",
+                "original_serie": {
+                    "networks": [
+                        "Italia 1",
+						"Cooltoon",
+						"Man-Ga"
+                    ],
+                    "first_run": {
+                        "start": "1981/10/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "47",
+                        "minutes_length": "20"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/daltanious.htm",
+							"https://it.wikipedia.org/wiki/Daltanious"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Mirai robot Daltanias",
+                "original_serie": {
+                    "networks": [
+
+                    ],
+                    "episodes": {
+                        "number": "47",
+                        "minutes_length": "20"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/daltanious.htm"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Yoshiyuki Tomino",
+			"Saburo Hatte"
+        ],
+        "directors": [
+            "Tadao Nagahama",
+			"Katsutoshi Sasaki",
+			"Norio Kashima",
+			"Katsuhito Kikuchi",
+			"Shuichi Hirokawa",
+			"Mitsuko Kase",
+			"Iku Suzuki"
+        ],
+        "producers": [
+            "Toei Animation",
+			"Sunrise",
+			"Tokyo Agency"
+        ],
+        "writers": [
+			"Motosuke Takahashi",
+			"Katsutoshi Sasaki",
+			"Kazuhito Kikuchi",
+			"Tadao Nagahama",
+			"Mitsuko Kase",
+			"Yuzo Tomizawa",
+			"Johei Matsuura",
+			"Norio Kashima"
+        ],
+        "character_design": [
+			"Akihiro Kanayama",
+			"Yuki Hijiri",
+			"Katsushi Murakami",
+			"Yutaka Izubuchi",
+			"SUBMARINE"
+        ],
+        "music_by": [
+			"Hiroshi Tsutsui"
+        ],
+        "genres": [
+            "shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+				"title": "Daltanious",
+                "artist": "I Superobots"
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/daltanious.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/6/68/Daltonius.jpg/210px-Daltonius.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "?????????",
+                "kanji_title": "Choju Kishin Dankuga",
+                "original_serie": {
+                    "networks": [
+						"Tokyo Broadcast System (TBS)"
+                    ],
+                    "first_run": {
+                        "start": "1985/04/05",
+                        "end": "1985/12/27"
+                    },
+                    "episodes": {
+                        "number": "38 + 4 OAV",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+						"sources": [
+							"http://www.encirobot.com/danc/danc-trasm.asp"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Dancouga",
+                "original_serie": {
+                    "networks": [
+                        "SKY (Man-Ga)"
+                    ],
+                    "first_run": {
+                        "start": "2012/01/30",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "38 + 4 OAV",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+                            "https://it.wikipedia.org/wiki/Dancouga",
+							"http://www.encirobot.com/danc/danc-trasm.asp",
+							"http://www.antoniogenna.net/doppiaggio/anim/dancouga.htm"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Dancouga  Super Beast Machine God",
+                "original_serie": {
+                    "networks": [
+
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "38 + 4 OAV",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+                            "https://en.wikipedia.org/wiki/Dancouga_%E2%80%93_Super_Beast_Machine_God"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Keisuke Fujikawa",
+			"Nobuyoshi Habara"
+        ],
+        "directors": [
+			"Seiji Okuda",
+			"Hiroshi Negishi",
+			"Nobuyoshi Habara"
+        ],
+        "producers": [
+            "Ashi Productions"
+        ],
+        "writers": [
+			"Hideki Sonoda",
+			"Seiji Okuda",
+			"Junji Takegami",
+			"Keisuke Fujikawa"
+        ],
+        "character_design": [
+			"Masami Obari"
+        ],
+        "music_by": [
+			"Osamu Totsuka",
+			"Takeshi Ike"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "",
+                "artist": "Massimo Parretti"
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/dancouga.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/c/c8/Dancougar.jpg/280px-Dancougar.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Hajyataisei Dangaioh",
+                "kanji_title": "??????????",
+                "original_serie": {
+                    "networks": [
+						"KIDS STATION"
+                    ],
+                    "first_run": {
+                        "start": "1987/09/28",
+                        "end": "1989/07/25"
+                    },
+                    "episodes": {
+                        "number": "3",
+                        "minutes_length": "45"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Dangaio"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Dangaio",
+                "original_serie": {
+                    "networks": [
+                        "Granata  Press"
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "3",
+                        "minutes_length": "45"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/dangaio.htm",
+							"https://it.wikipedia.org/wiki/Dangaio"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Dangaioh",
+                "original_serie": {
+                    "networks": [
+
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "3",
+                        "minutes_length": "45"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/dangaio.htm"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+
+        ],
+        "directors": [
+			"Toshihiro Hirano"
+        ],
+        "producers": [
+            "AIC (studio)",
+			"Artmic Studios",
+			"Bandai Visual Network"
+        ],
+        "writers": [
+			"Satoru Nishizono"
+        ],
+        "character_design": [
+			"Toshihiro Hirano",
+			"Koichi Ohata",
+			"Masami Obari",
+			"Shoji Kawamori",
+			"Yasushi Ishizu",
+			"Junichi Watanabe"
+        ],
+        "music_by": [
+			"Chumei Watanabe"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "originali giapponesi.",
+                "artist": ""
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/dangaio.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Wakusei robo Dangado A",
+                "kanji_title": "???? ?????A",
+                "original_serie": {
+                    "networks": [
+						"Fuji TV"
+                    ],
+                    "first_run": {
+                        "start": "1977/03/06",
+                        "end": "1978/03/26"
+                    },
+                    "episodes": {
+                        "number": "56",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Danguard"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Danguard",
+                "original_serie": {
+                    "networks": [
+
+                    ],
+                    "first_run": {
+                        "start": "1978",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "56",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/danguardace.htm",
+							"https://it.wikipedia.org/wiki/Danguard"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Wakusei  Robo Danguado Ace",
+                "original_serie": {
+                    "episodes": {
+                        "number": "56",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net",
+							"https://en.wikipedia.org/wiki/Wakusei_Robo_Danguard_Ace"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Leiji Matsumoto",
+			"Dan Kobayashi"
+        ],
+        "directors": [
+			"Tomoharu Katsumata",
+			"Nobutaka Nishizawa",
+			"Teruo Ishi",
+			"Kozo Takagaki",
+			"Masayuki Akehi"
+        ],
+        "producers": [
+            "Toei Animation",
+			"Asahi Tsushinsha"
+        ],
+        "writers": [
+			"Tatsuo Tamura",
+			"Shoji Yoshikawa",
+			"Mitsuru Mashima",
+			"Haruya Yamazaki"
+        ],
+        "character_design": [
+			"Shingo Araki",
+			"Michi Himeno",
+			"Iwamitsu Ito",
+			"Dan Kobayashi"
+        ],
+        "music_by": [
+			"Shunsuke Kikuchi"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": ": Danguard contatto e va",
+                "artist": "Veronica (ovvero Veronica Pivetti)"
+            },
+            "end": {
+                "title": "Danguard al decimo pianeta",
+                "artist": "Veronica (ovvero Veronica Pivetti)"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/danguardace.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/f/f0/Danguard.jpg/280px-Danguard.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Toshi Gordian",
+                "kanji_title": "????????",
+                "original_serie": {
+                    "networks": [
+						"TV Tokyo"
+                    ],
+                    "first_run": {
+                        "start": "1979/10/07",
+                        "end": "1981/02/22"
+                    },
+                    "episodes": {
+                        "number": "73",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Gordian"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Gordian",
+                "original_serie": {
+                    "networks": [
+                        "Telemotecarlo",
+						"Italia Teen Television",
+						"Cooltoon"
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "73",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gordian.htm",
+							"https://it.wikipedia.org/wiki/Gordian"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Gordian Warrior",
+                "original_serie": {
+                    "episodes": {
+                        "number": "73",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gordian.htm",
+							"https://en.wikipedia.org/wiki/Gordian_Warrior"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			    "Tatsuo Yoshida",
+			"Yu Yamamoto"
+        ],
+        "directors": [
+			"Shigeru Yanagawa",
+			"Eikichi Kojika",
+			"Hidenori Yamaguci",
+			"Masamune Ochiai"
+        ],
+        "producers": [
+            "Tatsunoko Productions"
+        ],
+        "writers": [
+            "Haruya Yamazaki",
+			"Kenichi Matsuzaki"
+        ],
+        "character_design": [
+			"Masaharu Kawamori"
+        ],
+        "music_by": [
+			"Masayuki Yamamoto",
+			"Masayuki Jinbo"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Gordian",
+                "artist": "Superobots"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/gordian.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/3/3a/Gordian.png/280px-Gordian.png"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Getta Robo",
+                "kanji_title": "??????",
+                "original_serie": {
+                    "networks": [
+						"Fuji TV"
+                    ],
+                    "first_run": {
+                        "start": "1975/05/15",
+                        "end": "1976/03/25"
+                    },
+                    "episodes": {
+						"number": "51",
+						"minutes_length": "25"
+                    },
+                    "links": {
+						"sources": []
+                    }
+                }
+            },
+            "it": {
+                "title": "Getta Robot",
+                "original_serie": {
+                    "networks": [
+						"Milano TV"
+                    ],
+                    "first_run": {
+                        "start": "1980/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+						"number": "39",
+						"minutes_length": "25"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gettarobot.htm"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "original_serie": {
+                    "episodes": {
+						"number": "51",
+						"minutes_length": "25"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gettarobot.htm"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Go Nagai",
+			"Ken Ishikawa"
+        ],
+        "directors": [
+			"Tomoharu Katsumata"
+        ],
+        "producers": [
+            "Toei Animation",
+			"Dynamic Planning"
+        ],
+        "writers": [
+			"Shun-ichi Yukimuro",
+			"Keisuke Fujikawa",
+			"Shozo Uehara",
+			"Tatsuo Tamura"
+        ],
+        "music_by": [
+			"Shunsuke Kikuchi"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+				        "title": "Space Robot",
+                "artist": "Mini Robot"
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/gettarobot.jpg",
+				"http://spazioinwind.libero.it/animeonline/Getter%201%20tomahawk%20back.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Magune Robo Ga·Kin",
+                "kanji_title": "????? ?·???",
+                "original_serie": {
+                    "networks": [
+						"TV Asashi"
+                    ],
+                    "first_run": {
+                        "start": "1976/09/05",
+                        "end": "1977/06/26"
+                    },
+                    "episodes": {
+                        "number": "39",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Gackeen,_il_robot_magnetico"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Gackeen, il robot magnetico",
+                "original_serie": {
+                    "networks": [
+						"TV 26",
+						"Italia Teen Television "
+                    ],
+                    "first_run": {
+                        "start": "1980/10/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "39",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gackeen.htm",
+							"https://it.wikipedia.org/wiki/Gackeen,_il_robot_magnetico"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Magne Robo Gakeen",
+                "original_serie": {
+                    "episodes": {
+                        "number": "39",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "https://en.wikipedia.org/wiki/Magne_Robo_Gakeen"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Shinobu Urukawa",
+			"Tomoyoshi Katsumada"
+        ],
+        "directors": [
+            "Tomoharu Katsumata",
+			"Kazuya Miyazaki",
+			"Yamaguchi Hidenori",
+			"Yoshio Nitta",
+			"Masayuki Akehi",
+			"Joei Matsura",
+			"Kozo Morishita",
+			"Kazumi Fukushima"
+        ],
+        "producers": [
+            "Toei  Animation"
+        ],
+        "writers": [
+            "Toyohiro Ando",
+			"Hiroyasu Yamaura",
+			"Hiroyuki Hoshiyama",
+			"Keisuke Fujikawa",
+			"Masaki Tsuji",
+			"Shinobu Urukawa"
+        ],
+        "character_design": [
+            "Kazuo Komatsubara"
+        ],
+        "music_by": [
+			"Chumei Watanabe"
+        ],
+        "genres": [
+           "shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Gackeen, il magnetico robot",
+                "artist": "Mini Robots"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/gackeen.jpg",
+				        "https://upload.wikimedia.org/wikipedia/it/thumb/6/67/Gackeen.jpg/280px-Gackeen.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Daiku Maryu Gaikingu",
+                "kanji_title": "?????????",
+                "original_serie": {
+                    "networks": [
+							"Fuji TV"
+                    ],
+                    "first_run": {
+                        "start": "1976/04/01",
+                        "end": "1977/01/27"
+                    },
+                    "episodes": {
+                        "number": "44",
+                        "minutes_length": "30"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Gaiking,_il_robot_guerriero"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Gaiking, il robot  guerriero",
+                "original_serie": {
+                    "networks": [
+                        "Tele Milano"
+                    ],
+                    "first_run": {
+                        "start": "1982/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "26"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gaiking.htm",
+							"https://it.wikipedia.org/wiki/Gaiking,_il_robot_guerriero"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Gaiking",
+                "original_serie": {
+                    "episodes": {
+                        "number": "44",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "https://en.wikipedia.org/wiki/Gaiking"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Kunio Nakatami",
+			"Akio Sugino",
+			"Dan Kobayashi",
+			"Go Nagai"
+        ],
+        "directors": [
+            "Tomoharu Katsumata"
+        ],
+        "producers": [
+            "Toei  Animation"
+        ],
+        "writers": [
+			"Shozo Uehara",
+			"Haruya Yamazaki",
+			"Susumu Takahisa"
+        ],
+        "character_design": [
+            "Takeshi Shirato",
+			"Takeshi Shiratsuki"
+        ],
+        "music_by": [
+            "Shunsuke Kikuchi"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "It takes me higher",
+                "artist": "Ganymed"
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/gaiking.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Gaiking.jpg/280px-Gaiking.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Shinkon Gattai Godannar!!",
+                "kanji_title": "??????????!!",
+                "original_serie": {
+                    "networks": [
+						"AT-X",
+						"Bandai Visual",
+						"KBS Kyoto",
+						"Tokyo MX"
+                    ],
+                    "first_run": {
+                        "start": "2003/10/01",
+                        "end": "2004/06/29"
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Godannar"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Godannar!! Divina Unione  Spirituale",
+                "original_serie": {
+                    "networks": [
+                        "Fool Frame",
+						"EXA Cinema"
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/godannar.htm",
+							"https://it.wikipedia.org/wiki/Godannar"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Shinkon  Gattai",
+                "original_serie": {
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/godannar.htm"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Yasuchika Nagaoka"
+        ],
+        "directors": [
+            "Yasuchika Nagaoka"
+        ],
+        "producers": [
+            "AIC",
+			"A.S.T.A.",
+			"Oriental Light and Magic"
+        ],
+        "writers": [
+
+        ],
+        "character_design": [
+			"Takahiro Kimura",
+			"Masahiro Yamane",
+			"Tsukasa Kotobuki"
+        ],
+        "music_by": [
+            "Chuumei Watanabe"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/godannar.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "??????? ??????",
+                "kanji_title": "Chogattai majutsu Robo Gingaiza",
+                "original_serie": {
+                    "networks": [
+						"TV Asahi"
+                    ],
+                    "first_run": {
+                        "start": "1977/04/09",
+                        "end": "1977/10/22"
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "26"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Ginguiser"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Ginguiser",
+                "original_serie": {
+                    "networks": [
+                        null
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "26"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/ginguiser.htm",
+							"https://it.wikipedia.org/wiki/Ginguiser"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Chogattai  majutsu robot Ginguiser",
+                "original_serie": {
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "26"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/ginguiser.htm"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Akira Hatta"
+        ],
+        "directors": [
+            "Masami Annou",
+			"Takashi Anocho",
+			"Koushi Anou",
+			"Asahi Yahiro"
+        ],
+        "producers": [
+            "Nippon  Animation",
+			"Koichi Motoashi"
+        ],
+        "writers": [
+            "Yu Yamamoto",
+			"Hajime Semifuji",
+			"Akira Hatta"
+        ],
+        "character_design": [
+            "Motosuke Takahashi",
+			"Isao Utsumi",
+			"Studio Nue",
+			"Mechaman Office"
+        ],
+        "music_by": [
+			"Seiji Yokoyama"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/ginguiser.jpg",
+				"http://www.serateotaku.it/img/ginguiser/ginguiser.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Gureeto Majinga",
+                "kanji_title": "?????????",
+                "original_serie": {
+                    "networks": [
+						"Fuji TV"
+                    ],
+                    "first_run": {
+                        "start": "1974/09/08",
+                        "end": "1975/09/28"
+                    },
+                    "episodes": {
+                        "number": "56",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Il_Grande_Mazinger"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Il grande Mazinger",
+                "original_serie": {
+                    "networks": [
+                        "Canale 5"
+                    ],
+                    "first_run": {
+                        "start": "1979/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "56",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/ilgrandemazinger.htm",
+							"https://it.wikipedia.org/wiki/Il_Grande_Mazinger"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Great Mazinger",
+                "original_serie": {
+                    "episodes": {
+                        "number": "56",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/ilgrandemazinger.htm"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Go Nagai"
+        ],
+        "directors": [
+            "Tomoharu Katsumata",
+			"Nobuo Onuki",
+			"Takeshi Tamiya",
+			"Tetsuo Imazawa",
+			"Masayuki Akehi"
+        ],
+        "producers": [
+            "Toei Animation"
+        ],
+        "writers": [
+            "Keisuke Fujikawa",
+			"Tohojiro Andou",
+			"Susumu Takajira"
+        ],
+        "character_design": [
+            "Keisuke Morishita"
+        ],
+        "music_by": [
+            "Chumei Watanabe"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Il grande Mazinger",
+                "artist": "Superobots"
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/ilgrandemazinger.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/4/41/GreatMazinger.jpg/280px-GreatMazinger.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Gowappa Faibu Godamu",
+                "kanji_title": "?????5 ????",
+                "original_serie": {
+                    "networks": [
+						"TV Asahi"
+                    ],
+                    "first_run": {
+                        "start": "1976/04/04",
+                        "end": "1976/12/29"
+                    },
+                    "episodes": {
+                        "number": "36",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Godam"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Godam",
+                "original_serie": {
+                    "networks": [
+                        "RaiUno",
+						            "Facile Tv"
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "36",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/godam.htm",
+							"https://it.wikipedia.org/wiki/Godam"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Gowapper 5 Godam",
+                "original_serie": {
+                    "episodes": {
+                        "number": "36",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/godam.htm",
+							"https://en.wikipedia.org/wiki/Gowappa_5_G%C5%8Ddam"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+            "Tatsuo Yoshida"
+        ],
+        "directors": [
+            "Ippei Kuri",
+			"Yoshiyuki Tomino",
+			"Jinzo Toriumi",
+			"Hideo Nishimaki"
+        ],
+        "producers": [
+            "Tatsunoko Productions",
+			"NET"
+        ],
+        "writers": [
+            "Kei Kubota",
+			"Yu Yamamoto",
+			"Satoshi Suyama"
+        ],
+        "character_design": [
+            "Yoshitaka Amano",
+			"Kunio Okawara"
+        ],
+        "music_by": [
+            "Bob Sakuma"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Godam",
+                "artist": "Cavalieri del Re"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/godam.jpg",
+				"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Gowapper5gundam.jpg/200px-Gowapper5gundam.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "??????????",
+                "kanji_title": "Rokushin Gattai GoddoMazu",
+                "original_serie": {
+                    "networks": [
+						"Nippon TV"
+                    ],
+                    "first_run": {
+                        "start": "1981/01/01",
+                        "end": "1982/01/01"
+                    },
+                    "episodes": {
+                        "number": "64",
+                        "minutes_length": "30"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/God_Mars"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "God Mars",
+                "original_serie": {
+                    "networks": [
+                        "Super 3",
+						"Cultoon"
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "52",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/godmars.htm",
+							"https://it.wikipedia.org/wiki/God_Mars"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Six God Combination Godmars",
+                "original_serie": {
+                    "episodes": {
+                        "number": "64",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/godmars.htm",
+							"https://en.wikipedia.org/wiki/Six_God_Combination_Godmars"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+            "Tatsuo Yoshida"
+        ],
+        "directors": [
+            "Ippei Kuri",
+			"Yoshiyuki Tomino",
+			"Jinzo Toriumi",
+			"Hideo Nishimaki"
+        ],
+        "producers": [
+            "Tokyo Movie Shinsha"
+        ],
+        "writers": [
+            "Kei Kubota",
+			"Yu Yamamoto",
+			"Satoshi Suyama"
+        ],
+        "character_design": [
+            "Yoshitaka Amano",
+			"Kunio Okawara"
+        ],
+        "music_by": [
+            "Bob Sakuma"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Space Runner",
+                "artist": "Augusto Martelli"
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/godmars.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/5/53/GodMars.jpg/280px-GodMars.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Uchu Taitei Goddo Shiguma",
+                "kanji_title": "??????????",
+                "original_serie": {
+                    "networks": [
+                        "TV Tokio"
+                    ],
+                    "first_run": {
+                        "start": "1980/03/19",
+                        "end": "1981/03/25"
+                    },
+                    "episodes": {
+                        "number": "50",
+                        "minutes_length": "30"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/God_Sigma"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "God Sigma, l'imperatore dello spazio",
+                "original_serie": {
+                    "networks": [
+                        ": reti locali, dal 1982; Sitcom 1 (repliche, dal 7 febbraio 2007)"
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "50",
+                        "minutes_length": "30"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/godsigma.htm",
+							"https://it.wikipedia.org/wiki/God_Sigma"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Space Emperor God Sigma",
+                "original_serie": {
+                    "episodes": {
+                        "number": "50",
+                        "minutes_length": "30"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/godsigma.htm"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+            "Mitsuteru Yokoyama"
+        ],
+        "directors": [
+            "Takeyuki Kanda",
+			"Katsuhiko Taguchi"
+        ],
+        "producers": [
+            "Toei Animation"
+        ],
+        "writers": [
+            "Akira Nakahara",
+            "Masaki Tsuji",
+            "Hisashi Yamazaki",
+            "Sakurai Masaaki"
+        ],
+        "character_design": [
+            "Kazuhiko Udagawa",
+			"Katsushi Murakami",
+			"SUBMARINE"
+        ],
+        "music_by": [
+
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "God Sigma",
+                "artist": "Monelli Spaziali"
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/godsigma.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/9/9f/Godsigma.jpg/280px-Godsigma.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "UFO Robo Gurendaiza",
+                "kanji_title": "UFO?????????",
+                "original_serie": {
+                    "networks": [
+						"Fuji TV"
+                    ],
+                    "first_run": {
+                        "start": "1975/10/05",
+                        "end": "1977/02/27"
+                    },
+                    "episodes": {
+						"number": "74",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/UFO_Robot_Goldrake"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Atlas UFO Robot",
+                "original_serie": {
+                    "networks": [
+                        "Rai 2"
+                    ],
+                    "first_run": {
+                        "start": "1978/04/04",
+                        "end": "1980/01/06"
+                    },
+                    "episodes": {
+ 						"number": "71",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/atlasuforobot.htm",
+							"https://it.wikipedia.org/wiki/UFO_Robot_Goldrake"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "UFO Robot Grendizer",
+                "original_serie": {
+                    "networks": [
+						"Syndicated (Jim Terry Productions)",
+						"TVA"
+                    ],
+                    "episodes": {
+						"number": "74",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/atlasuforobot.htm",
+							"https://en.wikipedia.org/wiki/Grendizer"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Go Nagai"
+        ],
+        "directors": [
+            "Masayuki Akehi",
+			"Tomoharu Katsumata",
+			"Masamune Ochiai"
+        ],
+        "producers": [
+			"Toei Animation",
+            "Dynamic Planning Inc."
+        ],
+        "writers": [
+            "Shozo Uehara",
+			"Keisuke Fujikawa",
+			"Tohojiro Andou"
+        ],
+        "character_design": [
+			"Kazuo Komatsubara"
+        ],
+        "music_by": [
+            "Shunsuke Kikuchi"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "UFO Robot",
+                "artist": "Actarus (Alberto \"Michel\" Tadini) e il Coro di Vince Tempera"
+            },
+            "end": {
+                "title": "Shooting Star",
+                "artist": "Actarus (Alberto \"Michel\" Tadini) e il Coro di Vince Tempera"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/atlasuforobot.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/Goldrake.png/280px-Goldrake.png"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Sengoku Maijin Goshogun",
+                "kanji_title": "???????????",
+                "original_serie": {
+                    "networks": [
+                        "Tokio TV"
+                    ],
+                    "first_run": {
+                        "start": "1981/07/03",
+                        "end": "1981/12/28"
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Gotriniton"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Gotriniton (Goshogun,  il dio della guerra)",
+                "original_serie": {
+                    "networks": [
+                        "Canale 5"
+                    ],
+                    "first_run": {
+                        "start": "1982/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gotriniton.htm",
+							"https://it.wikipedia.org/wiki/Gotriniton"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "GoShogun",
+                "original_serie": {
+                    "networks": [
+
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "26",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gotriniton.htm",
+							"https://en.wikipedia.org/wiki/GoShogun"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+            "Takeshi Suto"
+        ],
+        "directors": [
+            "Junji Nishimura"
+        ],
+        "producers": [
+            "Ashi  Productions"
+        ],
+        "writers": [
+            "Takeshi Shudo",
+			"Juji Watanabe",
+			"Kunihiko Yuyama",
+			"Sukehiro Tomita"
+        ],
+        "character_design": [
+            "Satoshi Hirayama",
+			"Hajime Kamegaki",
+			"Hideyuki Motohashi"
+        ],
+        "music_by": [
+            "Tachio Akano"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "artist": ""
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/gotriniton.jpg",
+				"http://img41.xooimage.com/files/5/9/7/b0-28963f8.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Guroizaa X",
+                "kanji_title": "?????X",
+                "original_serie": {
+                    "networks": [
+						"Tokyo Channel 12"
+                    ],
+                    "first_run": {
+                        "start": "1976/07/01",
+                        "end": "1977/03/31"
+                    },
+                    "episodes": {
+                        "number": "36",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Gloyzer_X"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Gloyzer X",
+                "original_serie": {
+                    "networks": [
+                        "Canale 5"
+                    ],
+                    "first_run": {
+                        "start": "1981/12/10",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "36",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gloyzerx.htm",
+							"https://it.wikipedia.org/wiki/Gloyzer_X"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Groizer X",
+                "original_serie": {
+                    "networks": [
+
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "36",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gloyzerx.htm",
+							"https://en.wikipedia.org/wiki/Groizer_X"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Go Nagai",
+			"Gosaku Ota"
+        ],
+        "directors": [
+            "Hiroshi Jinsenji"
+        ],
+        "producers": [
+            "Knack"
+        ],
+        "writers": [
+            "Toyohiro Andou"
+        ],
+        "character_design": [
+            "Norio Suzuki"
+        ],
+        "music_by": [
+
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "strumentale",
+                "artist": "orchestra di Augusto Martelli"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/gloyzerx.jpg",
+				"https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Groizerx.jpg/200px-Groizerx.jpg",
+				"http://upload.wikimedia.org/wikipedia/it/5/54/Groizer_X.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Kido Senshi Gandamu",
+                "kanji_title": "????????",
+                "original_serie": {
+                    "networks": [
+                        "Nagoya Broadcasting Network"
+                    ],
+                    "first_run": {
+                        "start": "1979/04/07",
+                        "end": "1980/01/26"
+                    },
+                    "episodes": {
+                        "number": "43",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Mobile_Suit_Gundam"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Gundam / Mobile Suit Gundam",
+                "original_serie": {
+                    "networks": [
+                      "Telemontecarlo",
+                      "Italia 1",
+                      "Italia Teen Television",
+                      "Hiro",
+                      "Italia 2"
+                    ],
+                    "first_run": {
+                        "start": "1980/02/09",
+                        "end": "1980/06/01"
+                    },
+                    "episodes": {
+                        "number": "39",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gundam.htm",
+							"https://it.wikipedia.org/wiki/Mobile_Suit_Gundam"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Mobile Suit Gundam",
+                "original_serie": {
+                    "networks": [
+						"Cartoon Network"
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "43",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/gundam.htm"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Yoshiyuki Tomino",
+			"Hajime Yatate"
+        ],
+        "directors": [
+            "Yoshiyuki Tomino",
+			"Ryoji Fujiwara",
+			"Shin'ya Sadamitsu",
+			"Hiromi Kuno",
+			"Osamu Sekita"
+        ],
+        "producers": [
+            "Nippon Sunrise"
+        ],
+        "writers": [
+            "Yu Yamamoto",
+			"Yoshihisa Araki"
+        ],
+        "character_design": [
+            "Yoshikazu Yasuhiko",
+			"Kunio Okawara"
+        ],
+        "music_by": [
+            "Takeo Watanabe"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Gundam",
+                "artist": "Peter Rei"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/gundam.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/1/1f/Mobile_Suit_Gundam.jpg/280px-Mobile_Suit_Gundam.jpg",
+				"https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MobileSuitGundamDVDbox.jpg/230px-MobileSuitGundamDVDbox.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Kotetsu Jigu",
+                "kanji_title": "?????",
+                "original_serie": {
+                    "networks": [
+						"TV Asahi"
+                    ],
+                    "first_run": {
+                        "start": "1975/10/05",
+                        "end": "1976/08/29"
+                    },
+                    "episodes": {
+                        "number": "46",
+                        "minutes_length": "30"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Jeeg_robot_d%27acciaio"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Jeeg Robot, uomo d'acciaio",
+                "original_serie": {
+                    "networks": [
+                        "Canale 5",
+						"Italia 1"
+                    ],
+                    "first_run": {
+                        "start": "1979/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "46",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/jeegrobotdacciaio.htm",
+							"https://it.wikipedia.org/wiki/Jeeg_robot_d%27acciaio"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Steel Jeeg",
+                "original_serie": {
+                    "episodes": {
+                        "number": "46",
+                        "minutes_length": "30"
+                    },
+                    "links": {
+                        "sources": [
+                            "https://en.wikipedia.org/wiki/Steel_Jeeg"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Go Nagai"
+        ],
+        "directors": [
+			"Yoshio Nitta",
+			"Kazuja Miyazaki",
+			"Masayuki Akehi",
+			"Yugo Serikawa",
+			"Tomoharu Katsumata",
+			"Masamune Ochiai"
+        ],
+        "producers": [
+            "Toei Animation",
+			"Dynamic Planning"
+        ],
+        "writers": [
+            "Toyohiro Andou",
+			"Hiroyasu Yamaura",
+			"Keisuke Fujikawa"
+        ],
+        "character_design": [
+            "Kazuo Nakamura"
+        ],
+        "music_by": [
+            "Chumei Watanabe"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": ": Jeeg Robot",
+                "artist": "Fogus (Roberto Fogù)"
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/jeegrobotdacciaio.jpg",
+				"http://i.ytimg.com/vi/v4CHgi9Ko2w/hqdefault.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Majinga Z",
+                "kanji_title": "?????Z",
+                "original_serie": {
+                    "networks": [
+                        "Fuji TV"
+                    ],
+                    "first_run": {
+                        "start": "1972/12/03",
+                        "end": "1974/09/01"
+                    },
+                    "episodes": {
+                        "number": "92",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Mazinga_Z"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Mazinga Z",
+                "original_serie": {
+                    "networks": [
+                        "RaiUno"
+                    ],
+                    "first_run": {
+                        "start": "1980/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "51",
+                        "minutes_length": "20"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/mazingaz.htm",
+							"https://it.wikipedia.org/wiki/Mazinga_Z"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Mazinger Z",
+                "original_serie": {
+                    "episodes": {
+                        "number": "92 (trasmessi in  Italia: 51)",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/mazingaz.htm",
+							"https://en.wikipedia.org/wiki/Mazinger_Z"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+            "Go Nagai"
+        ],
+        "directors": [
+            "Yugo Serikawa",
+			"Tomoharu Katsumata",
+			"Nobuo Onuki",
+			"Bonjin Nagaki",
+			"Tokushige Shirane"
+        ],
+        "producers": [
+            "Toei  Animation"
+        ],
+        "writers": [
+            "Hiroyasu Yamamura",
+			"Keisuke Fujikawa",
+			"Susumu Takako"
+        ],
+        "character_design": [
+            "Yoshiyuki Hane",
+			"Keisuke Morishita"
+        ],
+        "music_by": [
+            "Chumei Watanabe",
+			"Akira Ifukube"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Mazinga Z",
+                "artist": "Galaxy Group"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/mazingaz.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/7/78/MazingerZ.jpg/280px-MazingerZ.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Gasshin Sentai Mekandaa ",
+                "kanji_title": "???????????",
+                "original_serie": {
+                    "networks": [
+                        "AT-X",
+						"Tokyo 12"
+                    ],
+                    "first_run": {
+                        "start": "1977/03/03",
+                        "end": "1977/12/29"
+                    },
+                    "episodes": {
+                        "number": "35",
+                        "minutes_length": "23"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Mechander_Robot"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Mechander Robo",
+                "original_serie": {
+                    "networks": [
+                        "reti locali, 1982"
+                    ],
+                    "first_run": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "35",
+                        "minutes_length": "23"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/mechanderrobo.htm",
+							"https://it.wikipedia.org/wiki/Mechander_Robot"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Mechander Robot",
+                "original_serie": {
+                    "networks": [
+                        "GMA-7",
+						"MBC TV"
+                    ],
+                    "first_run": {
+                        "start": "1979/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "35",
+                        "minutes_length": "23"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/mechanderrobo.htm",
+							"https://en.wikipedia.org/wiki/Mechander_Robo"
+                        ]
+                    }
+                }
+            }
+        },
+        "directors": [
+            "Yoshiyuki Tomino",
+			"Takeshi Honda",
+			"Yoshitaka Nitta"
+        ],
+        "producers": [
+            "Wako Production",
+			"Orient Film Associates",
+			"Tokyo Channel 12"
+        ],
+        "writers": [
+            "Takeshi Honda",
+			"Satoshi Suyama",
+			"Kiyohiko Kaido"
+        ],
+        "character_design": [
+            "Nobuhiro Okaseko"
+        ],
+        "music_by": [
+            "Chumei Watanabe"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "breve brano strumentale.",
+                "artist": ""
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/mechanderrobo.jpg",
+				"http://www.animerate.net/fotos/anime/3811.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Muteki Robo Toraidaa Jii Sebun",
+                "kanji_title": "?????????G7",
+                "original_serie": {
+                    "networks": [
+                        "Nagoya TV"
+                    ],
+                    "first_run": {
+                        "start": "1980/02/02",
+                        "end": "1981/01/24"
+                    },
+                    "episodes": {
+                        "number": "50",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://en.wikipedia.org/wiki/Invincible_Robo_Trider_G7"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "L'invincibile robot  Trider G.7",
+                "original_serie": {
+                    "networks": [
+                        "Rete A",
+						"Ka-Boom"
+                    ],
+                    "first_run": {
+                        "start": "1981/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "50",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/triderg7.htm",
+							"https://it.wikipedia.org/wiki/Trider_G7"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Invincible Robo Trider G7",
+                "original_serie": {
+                    "episodes": {
+                        "number": "50",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/triderg7.htm",
+							"https://en.wikipedia.org/wiki/Invincible_Robo_Trider_G7"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+            "Hajime Yatate"
+        ],
+        "directors": [
+            "Katsutoshi Sasaki",
+			"Norio Kashima",
+			"Suzuki Ko"
+        ],
+        "producers": [
+            "Nippon Sunrise"
+        ],
+        "writers": [
+            "Tsuneisa Ito",
+			"Hiroyuki Hoshiyama",
+			"Yoshihisa Araki"
+        ],
+        "character_design": [
+            "Nobuyoshi Sasakado",
+			"Akihiro Kanayama",
+			"Kunio Okawara"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "Trider G.7",
+                "artist": "Superobots"
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/triderg7.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/9/98/Tridder.jpg/207px-Tridder.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "en",
+        "original_country": "USA",
+        "countries": {
+            "it": {
+                "title": "Voltron",
+                "original_serie": {
+                    "networks": [
+                        "Euro TV",
+						"Canale 5",
+						"Italia 1",
+						"Junior Tv",
+						"Super 3",
+						"Supersix"
+                    ],
+                    "first_run": {
+                        "start": "1986/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "52",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+                            "https://it.wikipedia.org/wiki/Voltron"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Voltron: Defender of the Universe",
+                "original_serie": {
+                    "networks": [
+                        "Cartoon Network"
+                    ],
+                    "first_run": {
+                        "start": "1984/09/10",
+                        "end": "1985/11/18"
+                    },
+                    "episodes": {
+                        "number": "124",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+                            "https://it.wikipedia.org/wiki/Voltron"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+			"Saburo Yatsude"
+        ],
+        "directors": [
+			"Hiroshi Sasagawa",
+			"Kozo Morishita"
+        ],
+        "producers": [
+            "World Events Productions",
+			"Toei Animation"
+        ],
+        "writers": [
+            "Susumu Takaku",
+			"Keisuke Fujikawa"
+        ],
+        "character_design": [
+            "Kazuo Nakamura",
+			"Shigetaka Aoyama"
+        ],
+        "music_by": [
+            "Asei Kobayashi",
+			"Seiji Yokoyama",
+			"Dale Schacker"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "originale americana.",
+                "artist": ""
+            },
+            "end": {
+                "title": "",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/voltron.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Voltron.jpg/280px-Voltron.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Hyakujuo Goraion",
+                "kanji_title": "????????,",
+                "original_serie": {
+                    "networks": [
+                        "Tokio TV"
+                    ],
+                    "first_run": {
+                        "start": "1981/03/04",
+                        "end": "1982/02/24"
+                    },
+                    "episodes": {
+                        "number": "52",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Golion"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Golion",
+                "original_serie": {
+                    "networks": [
+                        "Canale 5",
+						"Italia 1",
+						"Euro TV",
+						"Supersix"
+                    ],
+                    "first_run": {
+                        "start": "1982/09/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "52",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/golion.htm",
+							"https://it.wikipedia.org/wiki/Golion"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Beast King GoLion",
+                "original_serie": {
+                    "episodes": {
+                        "number": "52",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+							"http://www.antoniogenna.net/doppiaggio/anim/golion.htm",
+                            "http://www.antoniogenna.net"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+            "Saburo Yatsude"
+        ],
+        "directors": [
+            "Masahiko Taguchi",
+			"Hiroyuki Kanda",
+			"Kazuya Miyazaki",
+			"Katsushi Nomura",
+			"Tatso Kasahara",
+			"Hiroji Sato"
+        ],
+        "producers": [
+            "Toei Corporation"
+        ],
+        "writers": [
+            "Susumu Takaku",
+			"Sakurai Masaaki",
+			"Satoshi Suyama",
+			"Hiroshi Toda",
+			"Akira Nakahara"
+        ],
+        "character_design": [
+            "Kazuo Nakamura",
+			"Studio NUE"
+        ],
+        "music_by": [
+            "Masahisa Takeichi",
+			"Asei Kobayashi"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/golion.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/6/6f/Golion.jpg/280px-Golion.jpg"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Chodenji Mashin Borutesu Faibu",
+                "kanji_title": "??????? ????V",
+                "original_serie": {
+                    "networks": [
+                        "TV Asahi"
+                    ],
+                    "first_run": {
+                        "start": "1977/06/04",
+                        "end": "1978/03/25"
+                    },
+                    "episodes": {
+                        "number": "40",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Vultus_V"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Vultus 5",
+                "original_serie": {
+                    "networks": [
+                        "Rete  A"
+                    ],
+                    "first_run": {
+                        "start": "1983/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "40",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/vultus5.htm",
+							"https://it.wikipedia.org/wiki/Vultus_V"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Chodenji  machine Voltes 5",
+                "original_serie": {
+                    "episodes": {
+                        "number": "40",
+                        "minutes_length": "24"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/vultus5.htm",
+							"https://en.wikipedia.org/wiki/Ch%C5%8Ddenji_Machine_Voltes_V"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+            "Saburo Yatsude"
+        ],
+        "directors": [
+            "Tadao Nagahama"
+        ],
+        "producers": [
+			"Toei Animation",
+            "Nippon  Sunrise"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": ": Voltus  V (!)",
+                "artist": "Lory e Daniele"
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/vultus5.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/5/5c/Voltesv.png/280px-Voltesv.png"
+            ]
+        }
+    },
+    {
+        "original_language": "jp",
+        "original_country": "japan",
+        "countries": {
+            "jp": {
+                "title": "Muteki chojin Zambot 3",
+                "kanji_title": "?????????3",
+                "original_serie": {
+                    "networks": [
+                        "Nagoya Broadcasting Network"
+                    ],
+                    "first_run": {
+                        "start": "1977/10/08",
+                        "end": "1978/03/25"
+                    },
+                    "episodes": {
+                        "number": "23",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+						"sources": [
+							"https://it.wikipedia.org/wiki/Zambot_3"
+						]
+                    }
+                }
+            },
+            "it": {
+                "title": "Zambot 3",
+                "original_serie": {
+                    "networks": [
+                        "Tele Reporter",
+						"Super 3"
+                    ],
+                    "first_run": {
+                        "start": "1981/01/01",
+                        "end": ""
+                    },
+                    "episodes": {
+                        "number": "23",
+                        "minutes_length": "22"
+					},
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/zambot3.htm",
+							"https://it.wikipedia.org/wiki/Zambot_3"
+                        ]
+                    }
+                }
+            },
+            "en": {
+                "title": "Invincible Super Man Zambot 3",
+                "original_serie": {
+                    "episodes": {
+                        "number": "23",
+                        "minutes_length": "22"
+                    },
+                    "links": {
+                        "sources": [
+                            "http://www.antoniogenna.net/doppiaggio/anim/zambot3.htm"
+                        ]
+                    }
+                }
+            }
+        },
+        "authors": [
+            "Yoshiyuki Tomino",
+			"Yoshitake Suzuki"
+        ],
+        "directors": [
+            "Yoshiyuki Tomino",
+			"Shin'ya Sadamitsu",
+			"Susumu Ikuta",
+			"Takao Yotsuji",
+			"Susumu Ishizaki"
+        ],
+        "producers": [
+            "Nippon Sunrise"
+        ],
+        "writers": [
+            "Yoshihisa Araki",
+			"Shoji Yoshikawa",
+			"Shuichi Taguchi"
+        ],
+        "character_design": [
+            "Yoshikazu Yasuhiko",
+			"Ryoji Hirayama"
+        ],
+        "music_by": [
+			"Takeo Watanabe"
+        ],
+        "genres": [
+			"shonen", "mecha", "science fiction"
+        ],
+        "signature_tunes": {
+            "start": {
+                "title": "originale giapponese.",
+                "artist": ""
+            }
+        },
+        "links": {
+            "images": [
+                "http://www.antoniogenna.net/doppiaggio/anim/zambot3.jpg",
+				"https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/Zambot3.jpg/280px-Zambot3.jpg",
+				"http://www.movieforkids.it/wp-content/uploads/2013/04/zambot-giavellotto-wpcf_970x545.jpg"
+            ]
+        }
+    }
+]

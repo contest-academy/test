@@ -46,10 +46,46 @@
     "id": 1,
     "countries": {
       "it": {
-        "title": "it 2"
+        "title": "Sfida Migliori Films apparsi nella Top 250 di imdb",
+        "description": "La sfida è uno scontro ad eliminazione diretta. Vota il tuo Film preferito e confronta il tuo risultato con la classifica generale!",
+        "messages": {
+          "startContest": "La sfida stà per iniziare, chi sarà il vincitore? A te il verdetto.",
+          "firstTurnStart": "Primo turno",
+          "quarterFinal": "Quarti di finale",
+          "semiFinal": "Semifinali",
+          "final": "Finale",
+          "turnEnd": "Passano al prossimo turno:",
+          "endContest": "La sfida è terminata. Guarda la tua classifica!"
+        }
       },
       "en": {
-        "title": "en 2"
+        "title": "Bracket contest Best Film appeared in IMDB Top 250 list",
+        "description": "This is a knockout tournment. Vote your preferred Film and compare the result with the top chart!",
+        "messages": {
+          "startContest": "The contest is reday to begin. Which Film will win? It's your choice!.",
+          "firstTurnStart": "First turn",
+          "quarterFinal": "Quarterfinals",
+          "semiFinal": "Semifinals",
+          "final": "Final",
+          "turnEnd": "They deserved the next turn:",
+          "endContest": "The contest is over. Take a look at your chart!"
+        }
+      }
+    },
+    "contenders": "34",
+    "owner": "contest.academy",
+    "type": "closed",
+    "status": "featured",
+    "links": {
+      "images": [
+        "http://artegrafica.persinsala.it/wp-content/uploads/2013/12/Robottoni-Giapponesi-Goldrake-Mazinga-e-Mazinga-Z.jpg"
+      ]
+    },
+    "meta": {
+      "link": {
+        "uri": "http://774ee736-9cedb5e0b183.my.apitools.com/",
+        "method": "GET",
+        "accept": "application/json"
       }
     }
   },

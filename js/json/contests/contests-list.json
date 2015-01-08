@@ -82,11 +82,7 @@
       ]
     },
     "meta": {
-      "link": {
-        "uri": "http://774ee736-9cedb5e0b183.my.apitools.com/",
-        "method": "GET",
-        "accept": "application/json"
-      }
+
     }
   },
   {
